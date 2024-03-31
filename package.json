@@ -1,8 +1,8 @@
 {
+  "homepage": "https://hounfodji.github.io/react-noteApp-frontend",
   "name": "frontend",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://hounfodji.github.io/react-noteApp-frontend/",
   "type": "module",
   "scripts": {
     "predeploy" : "npm run build",
